@@ -1,8 +1,0 @@
-{
-  "name": "TROCOHOJE",
-  "description": "O marketplace local onde você ganha todo dia. Troque itens e serviços por créditos.",
-  "requestFramePermissions": [
-    "geolocation",
-    "camera"
-  ]
-}
